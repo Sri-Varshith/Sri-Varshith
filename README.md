@@ -46,5 +46,4 @@
 
 
 ### 🪄 Fun Fact
-
-> Fun fact: I can work at 5:00 AM — but only if I never slept the night before.
+ I can work at 5:00 AM — but only if I never slept the night before.
