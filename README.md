@@ -29,9 +29,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sri-Varshith&show_icons=true&theme=radical" height="165px"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sri-Varshith&show_icons=true&theme=radical" height="165px"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sri-Varshith&theme=radical" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sri-Varshith&layout=compact&theme=radical" height="165px"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sri-Varshith&layout=compact&theme=radical" height="165px"/> -->
 </p>
 
 
