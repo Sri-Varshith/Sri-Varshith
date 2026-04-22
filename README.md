@@ -28,20 +28,24 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sri-Varshith&show_icons=true&theme=radical" height="165px"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sri-Varshith&theme=radical" height="165px"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sri-Varshith&layout=compact&theme=radical" height="165px"/> -->
-</p>
+<div align="center">
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sri-Varshith&theme=whatsapp-dark2" alt="GitHub Streak" /></a>
+
+</div>
+
+
 
 
 
 ### 📅 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sri-Varshith&theme=tokyo-night&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff" />
-</p>
 
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sri-Varshith&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 ---
 
 
