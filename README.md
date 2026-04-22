@@ -4,25 +4,46 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sri-varshith-nimmagadda-159097330" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:srivarshith101@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://codeforces.com/profile/srivarshith">
-  <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/sri-varshith-nimmagadda-159097330" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1F2C34?style=for-the-badge&logo=linkedin&logoColor=25D366"/>
+  </a>
 
+  <a href="mailto:srivarshith101@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-1F2C34?style=for-the-badge&logo=gmail&logoColor=25D366"/>
+  </a>
 
-
+  <a href="https://codeforces.com/profile/srivarshith">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F2C34?style=for-the-badge&logo=codeforces&logoColor=25D366"/>
+  </a>
 </p>
 
 ---
 
 ### 💻 Tech Stack
 
-<p> <img title="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img title="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img title="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img title="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img title="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img title="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img title="Shell Script" src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img title="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img title="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img title="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img title="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/> <img title="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img title="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img title="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img title="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/> </p>
+<p>
+  <img title="Dart" src="https://img.shields.io/badge/Dart-1F2C34?style=for-the-badge&logo=dart&logoColor=25D366"/>
+  <img title="Flutter" src="https://img.shields.io/badge/Flutter-1F2C34?style=for-the-badge&logo=flutter&logoColor=25D366"/>
+  <img title="HTML5" src="https://img.shields.io/badge/HTML5-1F2C34?style=for-the-badge&logo=html5&logoColor=25D366"/>
+  <img title="CSS3" src="https://img.shields.io/badge/CSS3-1F2C34?style=for-the-badge&logo=css3&logoColor=25D366"/>
+  
+  <img title="Firebase" src="https://img.shields.io/badge/Firebase-1F2C34?style=for-the-badge&logo=firebase&logoColor=25D366"/>
+  <img title="Supabase" src="https://img.shields.io/badge/Supabase-1F2C34?style=for-the-badge&logo=supabase&logoColor=25D366"/>
+  
+  <img title="Git" src="https://img.shields.io/badge/Git-1F2C34?style=for-the-badge&logo=git&logoColor=25D366"/>
+  <img title="GitHub" src="https://img.shields.io/badge/GitHub-1F2C34?style=for-the-badge&logo=github&logoColor=25D366"/>
+  <img title="Shell Script" src="https://img.shields.io/badge/Shell-1F2C34?style=for-the-badge&logo=gnu-bash&logoColor=25D366"/>
+  <img title="Linux" src="https://img.shields.io/badge/Linux-1F2C34?style=for-the-badge&logo=linux&logoColor=25D366"/>
+  
+  <img title="VS Code" src="https://img.shields.io/badge/VSCode-1F2C34?style=for-the-badge&logo=visual-studio-code&logoColor=25D366"/>
+  <img title="Notion" src="https://img.shields.io/badge/Notion-1F2C34?style=for-the-badge&logo=notion&logoColor=25D366"/>
+  
+  <img title="C" src="https://img.shields.io/badge/C-1F2C34?style=for-the-badge&logo=c&logoColor=25D366"/>
+  <img title="C++" src="https://img.shields.io/badge/C++-1F2C34?style=for-the-badge&logo=c%2B%2B&logoColor=25D366"/>
+  <img title="Python" src="https://img.shields.io/badge/Python-1F2C34?style=for-the-badge&logo=python&logoColor=25D366"/>
+  <img title="Java" src="https://img.shields.io/badge/Java-1F2C34?style=for-the-badge&logo=java&logoColor=25D366"/>
+  <img title="LaTeX" src="https://img.shields.io/badge/LaTeX-1F2C34?style=for-the-badge&logo=latex&logoColor=25D366"/>
+</p>
 
 ---
 
