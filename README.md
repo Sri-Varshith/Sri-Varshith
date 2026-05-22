@@ -26,17 +26,20 @@
   <img title="Flutter" src="https://img.shields.io/badge/Flutter-1F2C34?style=for-the-badge&logo=flutter&logoColor=25D366"/>
   <img title="HTML5" src="https://img.shields.io/badge/HTML5-1F2C34?style=for-the-badge&logo=html5&logoColor=25D366"/>
   <img title="CSS3" src="https://img.shields.io/badge/CSS3-1F2C34?style=for-the-badge&logo=css3&logoColor=25D366"/>
+  <img title="JavaScript" src="https://img.shields.io/badge/JavaScript-1F2C34?style=for-the-badge&logo=javascript&logoColor=25D366"/>
+  <img title="Node.js" src="https://img.shields.io/badge/Node.js-1F2C34?style=for-the-badge&logo=node.js&logoColor=25D366"/>
   
   <img title="Firebase" src="https://img.shields.io/badge/Firebase-1F2C34?style=for-the-badge&logo=firebase&logoColor=25D366"/>
   <img title="Supabase" src="https://img.shields.io/badge/Supabase-1F2C34?style=for-the-badge&logo=supabase&logoColor=25D366"/>
+  <img title="SQLite" src="https://img.shields.io/badge/SQLite-1F2C34?style=for-the-badge&logo=sqlite&logoColor=25D366"/>
   
   <img title="Git" src="https://img.shields.io/badge/Git-1F2C34?style=for-the-badge&logo=git&logoColor=25D366"/>
   <img title="GitHub" src="https://img.shields.io/badge/GitHub-1F2C34?style=for-the-badge&logo=github&logoColor=25D366"/>
   <img title="Shell Script" src="https://img.shields.io/badge/Shell-1F2C34?style=for-the-badge&logo=gnu-bash&logoColor=25D366"/>
   <img title="Linux" src="https://img.shields.io/badge/Linux-1F2C34?style=for-the-badge&logo=linux&logoColor=25D366"/>
   
-  <img title="VS Code" src="https://img.shields.io/badge/VSCode-1F2C34?style=for-the-badge&logo=visual-studio-code&logoColor=25D366"/>
-  <img title="Notion" src="https://img.shields.io/badge/Notion-1F2C34?style=for-the-badge&logo=notion&logoColor=25D366"/>
+  <img title="Go" src="https://img.shields.io/badge/Go-1F2C34?style=for-the-badge&logo=go&logoColor=25D366"/>
+  <img title="Kotlin" src="https://img.shields.io/badge/Kotlin-1F2C34?style=for-the-badge&logo=kotlin&logoColor=25D366"/>
   
   <img title="C" src="https://img.shields.io/badge/C-1F2C34?style=for-the-badge&logo=c&logoColor=25D366"/>
   <img title="C++" src="https://img.shields.io/badge/C++-1F2C34?style=for-the-badge&logo=c%2B%2B&logoColor=25D366"/>
