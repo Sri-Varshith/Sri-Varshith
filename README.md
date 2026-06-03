@@ -1,21 +1,14 @@
 <h1 align="center">Hi there, I'm Sri Varshith 👋</h1>
 
-
 ### 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sri-varshith-nimmagadda-159097330" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1F2C34?style=for-the-badge&logo=linkedin&logoColor=25D366"/>
-  </a>
+<div align="center">
 
-  <a href="mailto:srivarshith101@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-1F2C34?style=for-the-badge&logo=gmail&logoColor=25D366"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2C34?style=for-the-badge&logo=linkedin&logoColor=25D366)](https://www.linkedin.com/in/sri-varshith-nimmagadda-159097330)
+[![Gmail](https://img.shields.io/badge/Gmail-1F2C34?style=for-the-badge&logo=gmail&logoColor=25D366)](mailto:srivarshith101@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F2C34?style=for-the-badge&logo=codeforces&logoColor=25D366)](https://codeforces.com/profile/srivarshith)
 
-  <a href="https://codeforces.com/profile/srivarshith">
-    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F2C34?style=for-the-badge&logo=codeforces&logoColor=25D366"/>
-  </a>
-</p>
+</div>
 
 ---
 
@@ -70,8 +63,11 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sri-Varshith&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
----
 
+<br>
 
-### 🪄 Fun Fact
- I can work at 5:00 AM — but only if I never slept the night before.
+<div align="center">
+
+ *I can work at 5:00 AM, but only if I never slept the night before.*
+
+</div>
